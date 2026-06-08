@@ -1,0 +1,1 @@
+A full stack contact management web application built using Java Spring Boot, MySQL, HTML, CSS, and JPA. The project allows users to submit contact details through a responsive frontend form, stores the data in a MySQL database, and displays saved contacts using REST API endpoints.
